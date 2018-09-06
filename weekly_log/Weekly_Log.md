@@ -18,5 +18,8 @@
 1. Begin work on learning-through-asking-questions module.
 
 **Pooja**
+1. Understand end-to-end memory architecture for question answering.
+2. Download and preprocess the WikiMovies dataset.
+3. Implement model architecture in PyTorch.
 
 **Harini**
