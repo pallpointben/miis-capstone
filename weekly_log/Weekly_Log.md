@@ -13,3 +13,9 @@
 1. Determine ideal structure for question parse data to use in conjunction with oMDB API.
 2. Prepare specification/interface for question parsing/key hashing module.
 3. Begin implementation of module in Python.
+
+**Anusha**
+
+**Pooja**
+
+**Harini**
