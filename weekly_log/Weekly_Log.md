@@ -7,6 +7,11 @@
 2. Laid out discrete submodules of our project for each team member to work on.
 3. Conducted review of several in-domain knowledge bases to use in our project and selected the best one (oMDB).
 
+## Tasks for 9/12-9/19
+
+**All**
+This week, we decided to put individual subprojects on hold and work together on one base module, the key value memory network. This will give us leverage in the future to write new code with an existing body in mind, rather than building something freeform and trying to figure out how everything fits together later.
+
 ## Tasks for 9/5-9/12
 
 **Ben**
