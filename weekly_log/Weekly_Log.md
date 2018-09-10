@@ -10,16 +10,19 @@
 ## Tasks for 9/5-9/12
 
 **Ben**
-1. Determine ideal structure for question parse data to use in conjunction with oMDB API.
-2. Prepare specification/interface for question parsing/key hashing module.
-3. Begin implementation of module in Python.
+1. Determining ideal structure for question parse data to use in conjunction with oMDB API.
+2. Preparing specification/interface for question parsing/key hashing module.
+3. Began implementation of module in Python.
+
 
 **Anusha**
-1. Begin work on learning-through-asking-questions module.
+1. Began work on learning-through-asking-questions module.
+2. Designing the simulator for online training of chat-bot
 
 **Pooja**
 1. Understand end-to-end memory architecture for question answering.
 2. Download and preprocess the WikiMovies dataset.
-3. Implement model architecture in PyTorch.
+3. Implementing model architecture in PyTorch.
 
 **Harini**
+1. Implementing Key value memory network architecture in PyTorch
