@@ -31,4 +31,5 @@ This week, we decided to put individual subprojects on hold and work together on
 3. Implementing model architecture in PyTorch.
 
 **Harini**
-1. Implementing Key value memory network architecture in PyTorch
+1. Study the details of the base architecture chosen.
+1. Learn the designs of Key value memory network architecture in PyTorch and start implementation.
