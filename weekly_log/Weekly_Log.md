@@ -32,4 +32,4 @@ This week, we decided to put individual subprojects on hold and work together on
 
 **Harini**
 1. Study the details of the base architecture chosen.
-1. Learn the designs of Key value memory network architecture in PyTorch and start implementation.
+1. Learn the designs of Key value memory network architecture and start implementation in PyTorch.
