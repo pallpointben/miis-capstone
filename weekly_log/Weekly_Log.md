@@ -2,6 +2,15 @@
 
 ## Progress Since May
 
+## Tasks for 9/19-9/26
+**Completed tasks from last week**
+**Ben + Pooja**
+1. Continue building memory network architecture in PyTorch
+2. Train on WikiMovies data
+**Anusha + Harini**
+1. Download and preprocess WikiMovies dataset and OMdB KB
+2. Incorporate simulator in the dialogue system
+
 **All**
 1. Continued literature review, discovering even more relevant papers for our topic.
 2. Laid out discrete submodules of our project for each team member to work on.
