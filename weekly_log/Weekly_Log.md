@@ -1,6 +1,6 @@
 
 
-## Progress Since May
+
 
 ## Tasks for 9/19-9/26
 **Completed tasks from last week**
@@ -11,10 +11,7 @@
 1. Download and preprocess WikiMovies dataset and OMdB KB
 2. Incorporate simulator in the dialogue system
 
-**All**
-1. Continued literature review, discovering even more relevant papers for our topic.
-2. Laid out discrete submodules of our project for each team member to work on.
-3. Conducted review of several in-domain knowledge bases to use in our project and selected the best one (oMDB).
+
 
 ## Tasks for 9/12-9/19
 
@@ -42,3 +39,9 @@ This week, we decided to put individual subprojects on hold and work together on
 **Harini**
 1. Study the details of the base architecture chosen.
 1. Learn the designs of Key value memory network architecture and start implementation in PyTorch.
+
+## Progress Since May
+**All**
+1. Continued literature review, discovering even more relevant papers for our topic.
+2. Laid out discrete submodules of our project for each team member to work on.
+3. Conducted review of several in-domain knowledge bases to use in our project and selected the best one (oMDB).
