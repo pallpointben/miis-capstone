@@ -7,6 +7,7 @@
 **Ben + Pooja**
 1. Continue building memory network architecture in PyTorch
 2. Train on WikiMovies data
+
 **Anusha + Harini**
 1. Download and preprocess WikiMovies dataset and OMdB KB
 2. Incorporate simulator in the dialogue system
