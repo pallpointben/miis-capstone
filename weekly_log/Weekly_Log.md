@@ -4,6 +4,7 @@
 
 ## Tasks for 9/19-9/26
 **Completed tasks from last week**
+
 **Ben + Pooja**
 1. Continue building memory network architecture in PyTorch
 2. Train on WikiMovies data
