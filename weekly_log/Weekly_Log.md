@@ -8,7 +8,7 @@
 
 **Anusha + Harini**
 1. Data processing completed
-2. Started buildign Reinforcement learning model
+2. Started building Reinforcement learning model
 
 ## Tasks for 9/19-9/26
 **Completed tasks from last week**
