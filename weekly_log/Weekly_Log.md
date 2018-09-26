@@ -1,11 +1,12 @@
 ## Tasks for 9/26-10/3
-
+**Completed tasks from last week**
 **Ben + Pooja**
 1. Continuing to build memory network architecture.
 2. Stretch goal: Start experimenting with the built architecture.
 
 **Anusha + Harini**
-1. Continuing tasks from last week.
+1. Data processing completed
+2. Started buildign Reinforcement learning model
 
 ## Tasks for 9/19-9/26
 **Completed tasks from last week**
