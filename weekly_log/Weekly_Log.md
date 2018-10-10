@@ -1,3 +1,9 @@
+#Tasks for 10/3-10/10
+
+1. Make final changes to memory network/learning module.
+2. Begin integrating the two subcomponents.
+3. Begin preparing for midterm presentation.
+
 ## Tasks for 9/26-10/3
 **Completed tasks from last week**
 
