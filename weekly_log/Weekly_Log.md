@@ -1,4 +1,6 @@
-#Tasks for 10/3-10/10
+# Tasks for 10/3-10/10
+
+**All**
 
 1. Make final changes to memory network/learning module.
 2. Begin integrating the two subcomponents.
