@@ -1,3 +1,15 @@
+# Tasks for 10/10-10/24
+
+**All**
+
+1. Finetune midterm presentation
+2. Do mock midterm ppt
+3. Integrate subcomponents and test on 10k datasets
+4. Obtain eval metrics on full dataset
+5. Preprocess dog (in house data) dataset
+
+
+
 # Tasks for 10/3-10/10
 
 **All**
