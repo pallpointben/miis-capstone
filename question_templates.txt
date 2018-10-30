@@ -1,0 +1,192 @@
+FIELD:Director
+who directed X
+who was the director of X
+who was X directed by
+who is the director of X
+who directed the film X
+who directed the movie X
+whos the director of X
+which person directed X
+the director of X was who
+the director of X was
+who is the director for X
+who is listed as director for X
+who is the director that directed X
+the film X was directed by who
+
+FIELD:Writer
+who wrote the screenplay for X
+who wrote X
+who wrote the film X
+who wrote the movie X
+which screenwriter wrote the script for X
+who is the creator of the film script for X
+the film X was written by who
+who was X written by
+who was the writer of X
+who was the writer of the film X
+who is the writer of X
+who is the writer of the film X
+who in the world wrote X
+X is a film written by this person
+whos the writer of X
+which person wrote X
+which person wrote the movie X
+who is the author of X
+
+FIELD:Language
+what is the language spoken in the film X
+what is the language spoken in the movie X
+what is the language spoken in X
+what language is X in
+what is the primary language in the film X
+what is the primary language in X
+what is the main language in X
+what language is X in
+what language is the movie X in
+
+FIELD:Actors
+who starred in X
+who are the actors in X
+who stars in X
+the film X starred which actors
+the movie X starred who
+who acted in the movie X
+who acted in X
+
+FIELD:imdbRating
+what was the rating of X
+what do people think of X
+what is popular opinion about X
+is X considered good
+what is the rating of X
+X is it any good
+what rating would people give X
+how would people rate X
+what did people think of X
+what did audiences think of X
+
+FIELD:imdbVotes
+what was the popularity rating of X
+how popular was X
+how famous was X
+how popular of a movie was X
+how famous of a film was X
+how popular is X
+how popular of a movie is X
+
+FIELD:Year
+what year was X released
+when was X released
+what was the release date of X
+what was the release year of X
+what year was the movie X released
+when was the movie X released
+what was the release date of the movie X
+what was the release year of the movie X
+what year was the film X released
+when was the film X released
+what was the release date of the film X
+what was the release year of the film X
+X when was it released
+the movie X when was it released
+
+FIELD:Genre
+what kind of movie is X
+what kind of film is X
+what type of movie is X
+what type of film is X
+what sort of movie is X
+what sort of film is X
+what genre does X fall under
+what film genre is X
+what is the genre of X
+what is the genre for X
+what is the genre for the movie X
+what is the genre for the film X
+what is the genre of the movie X
+what is the genre of the film X
+what was the genre of X
+what was the genre of the movie X
+what was the genre of the film X
+what genre is X in
+what genre of movie is X
+what genre of film is X
+
+FIELD:Tags_to_movies
+what films are about X
+which movies are about X
+which films are about X
+what movies can be described by X
+which movies can be described by X
+what films can be described by X
+which films can be described by X
+what movies can be described with X
+what movies are about X
+
+FIELD:Actor_to_movies
+what movies did X star in
+what movies did X act in
+what films did X act in
+what films did X star in
+what does X star in
+what does X appear in
+X appears in which movies
+what does X act in
+what movies was X an actor in
+what films does X appear in
+
+FIELD:Writer_to_movies
+which film did X write
+which movie did X write
+what film did X write
+what movies did X write
+what films did X write
+which movies was X the writer of
+what movies was X the writer of
+which movies was X a writer on
+what films was X a writer on
+what is a film written by X
+what is a movie written by X
+what movie did X write the story for
+which film did X write the story for
+
+FIELD:Director_to_movies
+what movies did X direct
+what films did X direct
+which films did X direct
+which movies did X direct
+X directed which movies
+X was the director of which movies
+X directed which films
+X was the director of which films
+X was the director on which movies
+which films did X direct
+what is a film directed by X
+can you name a film directed by X
+which movie was X the director for
+what did X direct
+what was X the director of
+
+FIELD:Tags
+can you describe movie X in a few words
+can you give a few words describing what X is about
+can you give a few words describing X
+describe X in a few words
+describe the movie X in a few words
+describe X
+what terms are applicable to X
+what are some words that describe movie X
+what words describe film X
+what topics is X about
+what words describe X
+which topics is movie X about
+which words describe movie X
+which topics is X about
+which words describe film X
+which words describe X
+
+FIELD:Other_to_movies
+what are the top k most popular X movies
+what are the top k most popular movies X directed
+what are the top k most popular movies X acted in
