@@ -1,3 +1,12 @@
+# Tasks for 10/24-11/07
+
+**All**
+
+1. Debugging and Training the components and full model.
+2. Dataset Selection for Chat Based Conversational Systems.
+
+
+
 # Tasks for 10/10-10/24
 
 **All**
