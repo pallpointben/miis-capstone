@@ -1,4 +1,9 @@
-# Tasks for 10/24-11/07
+# Tasks for 10/30-11/07
+1. Implemented architecture
+2. Trained on movieqa data
+3. Ran initiual eval tests
+
+# Tasks for 10/24-10/30
 
 **All**
 
