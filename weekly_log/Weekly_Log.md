@@ -1,3 +1,8 @@
+# Tasks for 11/07-11/14
+1. Trained qa system
+2. Designed polling architecture
+3. Built candidate kb based pipeline
+
 # Tasks for 10/30-11/07
 1. Implemented architecture
 2. Trained on movieqa data
