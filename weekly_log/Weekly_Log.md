@@ -1,3 +1,8 @@
+# Tasks for 11/21-11/28
+1. Implemented question verification
+2. Created conversational training dataset
+3. Worked on qa/aq
+
 # Tasks for 11/07-11/14
 1. Trained qa system
 2. Designed polling architecture
